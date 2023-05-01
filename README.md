@@ -1,7 +1,7 @@
 ### About me
-Hey, i'm Avtogen, a node runner, crypto enthusiast and decentralized world lover.
+Hey, I'm Avtogen, a node runner, crypto enthusiast and decentralized world lover.
 
-- I’m currently running nodes on [**Sui**](https://twitter.com/Mysten_Labs), [**Minima**](https://twitter.com/Minima_Global), [**Gear**](https://twitter.com/gear_techs), [**StarkNet**](https://twitter.com/StarkWareLtd), [**IronFish**](https://twitter.com/ironfishcrypto), [**Zeeka**](https://twitter.com/ZeekaKv) and [**Bundlr**](https://twitter.com/BundlrNetwork).
+- I’m currently running nodes on [**Sui**](https://twitter.com/Mysten_Labs), [**Minima**](https://twitter.com/Minima_Global), [**Gear**](https://twitter.com/gear_techs), [**StarkNet**](https://twitter.com/StarkWareLtd), [**IronFish**](https://twitter.com/ironfishcrypto), [**Zeeka**](https://twitter.com/ZeekaKv), [**Celestia**](https://twitter.com/CelestiaOrg) and [**Bundlr**](https://twitter.com/BundlrNetwork).
 
 - Successfully finished testnets: [**Forta**](https://twitter.com/FortaNetwork), [**Kujira**](https://twitter.com/TeamKujira), [**Subspace**](https://twitter.com/NetworkSubspace) and [**Aptos**](https://twitter.com/Aptos_Network).
 
